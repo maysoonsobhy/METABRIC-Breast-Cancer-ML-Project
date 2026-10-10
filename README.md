@@ -22,6 +22,3 @@ This repository contains an end-to-end Machine Learning classification and data 
 * **Pandas & NumPy** (Data manipulation and numerical operations)
 * **Scikit-Learn** (Pipelines, preprocessing, PCA, models, and grid search)
 * **Joblib** (Model serialization and artifact persistence)
-
-│   └── preprocessor_transformer.joblib   # Fitted data preprocessor transformer
-├── README.md                             # Project documentation
