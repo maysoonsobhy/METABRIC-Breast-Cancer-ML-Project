@@ -23,7 +23,5 @@ This repository contains an end-to-end Machine Learning classification and data 
 * **Scikit-Learn** (Pipelines, preprocessing, PCA, models, and grid search)
 * **Joblib** (Model serialization and artifact persistence)
 
-
-│   ├── metabric_model_pipeline.joblib    # Fully trained optimal pipeline & model
 │   └── preprocessor_transformer.joblib   # Fitted data preprocessor transformer
 ├── README.md                             # Project documentation
